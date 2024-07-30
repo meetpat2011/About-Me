@@ -1,4 +1,4 @@
-<div align="center"> ### Hi there 👋, my name is Meet Patel </div>
+### Hi there 👋, my name is Meet Patel 
 #### A Passionate Full Stack Developer
 ![A Passionate Full Stack Developer](https://media.licdn.com/dms/image/D4D16AQHjktvR8H_8Qw/profile-displaybackgroundimage-shrink_350_1400/0/1722217951553?e=1727913600&v=beta&t=sJVzDSQT5e6wDfPDVXbSSwY1bvD6JykSjDj7ka258n4)
 

@@ -7,5 +7,7 @@ I love to see the podcast of successful people and apply their good qualities in
 - 🌱 I’m currently learning Next.js
 - 💬 Ask me about HTML, CSS, ReactJS, Node.js
 - 📫 How to reach me: meetpat91@gmail.com
-- ⚡ Fun fact: 
+- ⚡ Fun fact:
+
+  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=meetpat2011&count_private=true&theme=tokyonight&showicons=true)]()
 

@@ -4,10 +4,8 @@ I am currently a Computer Science Graduate student at Arizona State University. 
 I love to see the podcast of successful people and apply their good qualities into my life. My secret of happiness is when I push the code to github repository and publish into the production.  
 
 - 🔭 I’m currently working on developing AI projects
-- 🌱 I’m currently learning ... Next.js
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ... HTML, CSS, ReactJS, Node.js
-- 📫 How to reach me: ... meetpat91@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning Next.js
+- 💬 Ask me about HTML, CSS, ReactJS, Node.js
+- 📫 How to reach me: meetpat91@gmail.com
+- ⚡ Fun fact: 
 

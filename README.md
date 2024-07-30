@@ -47,12 +47,12 @@ I am currently a Computer Science Graduate student at Arizona State University. 
 <br/>  
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=meetpat2011&show_icons=true&count_private=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=meetpat2011)  
 
-</table>
+
 
 
